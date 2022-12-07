@@ -1,0 +1,32 @@
+<Bindings>
+ <Binding name="CLICK BartenderBarToggleButton1:LeftButton" description="Toggles Bartender bar 1" header="BT4_TOGGLE" runOnUp="true">
+ -- Nothing to see here.
+ </Binding>
+ <Binding name="CLICK BartenderBarToggleButton2:LeftButton" description="Toggles Bartender bar 2" runOnUp="true">
+ -- Nothing to see here.
+ </Binding>
+ <Binding name="CLICK BartenderBarToggleButton3:LeftButton" description="Toggles Bartender bar 3" runOnUp="true">
+ -- Nothing to see here.
+ </Binding>
+ <Binding name="CLICK BartenderBarToggleButton4:LeftButton" description="Toggles Bartender bar 4" runOnUp="true">
+ -- Nothing to see here.
+ </Binding>
+ <Binding name="CLICK BartenderBarToggleButton5:LeftButton" description="Toggles Bartender bar 5" runOnUp="true">
+ -- Nothing to see here.
+ </Binding>
+ <Binding name="CLICK BartenderBarToggleButton6:LeftButton" description="Toggles Bartender bar 6" runOnUp="true">
+ -- Nothing to see here.
+ </Binding>
+ <Binding name="CLICK BartenderBarToggleButton7:LeftButton" description="Toggles Bartender bar 7" runOnUp="true">
+ -- Nothing to see here.
+ </Binding>
+ <Binding name="CLICK BartenderBarToggleButton8:LeftButton" description="Toggles Bartender bar 8" runOnUp="true">
+ -- Nothing to see here.
+ </Binding>
+ <Binding name="CLICK BartenderBarToggleButton9:LeftButton" description="Toggles Bartender bar 9" runOnUp="true">
+ -- Nothing to see here.
+ </Binding>
+ <Binding name="CLICK BartenderBarToggleButton10:LeftButton" description="Toggles Bartender bar 10" runOnUp="true">
+ -- Nothing to see here.
+ </Binding>
+</Bindings>
